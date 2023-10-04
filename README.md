@@ -9,4 +9,4 @@
 [index.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/index.jsp)
 
 ### 22년 9월27일 쇼핑몰 상품 목록 페이지(이미지 포함) 추가 완료
-[index.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/index.jsp)
+[index.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/WEB-INF/src/dao/ProductRepository.java)
