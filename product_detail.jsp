@@ -15,7 +15,7 @@
     </head>
     
     <body>
-        <%@ include file = "top_banner.jsp"%>
+        <%@ include file = "top_banner.jsp"%> 
         <%@ include file = "top_menu.jsp"%>
         <div class = "jumbotron">
             <div class= "container">
