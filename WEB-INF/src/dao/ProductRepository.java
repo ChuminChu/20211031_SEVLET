@@ -43,11 +43,11 @@ public class ProductRepository {
 		Juice.setCondition("Like");
 		
         Product Dessert = new Product("a6", "못난이 생크림 카스텔라",3000);
-		Juice.setDescription("부드러운 우유 생크림이 가득한 폭신하고 촉촉한 카스텔라");
-		Juice.setCategory("Dessert");
-		Juice.setManufacturer("Paiks");
-		Juice.setUnitsInStock(1000);
-		Juice.setCondition("soft");
+		Dessert.setDescription("부드러운 우유 생크림이 가득한 폭신하고 촉촉한 카스텔라");
+		Dessert.setCategory("Dessert");
+		Dessert.setManufacturer("Paiks");
+		Dessert.setUnitsInStock(1000);
+		Dessert.setCondition("soft");
 		// 위와 같이 상품 초기화 하고 아래에 상품을 추가
 
 		listOfProducts.add(Coffee);
@@ -62,4 +62,17 @@ public class ProductRepository {
 	public ArrayList<Product> getAllProducts() {
 		return listOfProducts;
 	}
+    
+    public Product getProductById(String productId){
+        Product productById = null;
+        
+        for(int i =0; i<listOfProducts.size();i++){
+            Product product = listOfProducts.get(i);
+            if(product !=null&&product.getProductId()!=null && product.getProductId().equals(productId)){
+                productById=product;
+                break;
+            }
+        }
+        return productById;
+    }
 }
