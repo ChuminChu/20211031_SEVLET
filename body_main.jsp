@@ -1,16 +1,49 @@
 <%@ page contentType = "text/html; charset=utf-8" %>
+<%@ page import="java.util.ArrayList"%>
+<%@ page import="dto.Product"%>
+<jsp:useBean id="productDAO" class="dao.ProductRepository" scope="session" />
 
-    <%-- CLASS는 스타일 적용시에 사용되는 이름, 중첩 가능 --%>
-    <%! String greeting = "추다방에 오신걸 환영추";
+<%! String greeting = "빽다방 음료 페이지입니다.";
         String tagline = "하단 페이지: 확인";%>
+<div class="container">
     <div class="jumbotron">
         <div class="container">
-            <h1 class="display-3">
+            <h3 class="display-4">
                 <%=greeting%>
-            </h1>
+            </h3>
         </div>
     </div>
+    <%
+    ArrayList<Product> listOfProducts = productDAO.getAllProducts();
+    %>
+</div>
 
+<div class="container">
+    <div class="row" align="center">
+        <%
+            for (int i = 0; i < listOfProducts.size(); i++){
+                Product product = listOfProducts.get(i);
+        %>
+        <div class="col-md-4">
+            <div class = "card bg-dark text white">
+                <img src="image/product/<%=product.getProductId()%>.png" class="card-img" alt="...">
+                <div class="card-img-pverlay">
+                    <h5 class = "card-title">음료 샘플 </h5>
+                    <p class = "card-text">출처:빽다방 </p>
+                </div>
+            </div>
+            <h3><%=product.getPname()%></h3>
+            <p><%=product.getDescription()%></p>
+            <p><%=product.getUnitPrice()%>원</p>
+        </div>
+        <%
+            }
+        %>
+    </div>
+    <hr>
+</div>
+
+ 
 <div class="card bg-dark text-white">
     <img src="image/over.jpg" class="card-img" alt="...">
     <div class="card-img-overlay">
