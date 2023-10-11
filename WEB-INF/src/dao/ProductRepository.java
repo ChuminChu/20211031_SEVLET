@@ -5,6 +5,11 @@ import dto.Product;
 public class ProductRepository {
 
 	private ArrayList<Product> listOfProducts = new ArrayList<Product>(); // ArrayList를 Product로 캐스팅
+    private static ProductRepository instance = new ProductRepository();
+    
+    public static ProductRepository getInstance(){
+        return instance;
+    }
 
 	public ProductRepository() {
 		Product Coffee = new Product("a1", "원조커피",2500);
@@ -13,6 +18,7 @@ public class ProductRepository {
 		Coffee.setManufacturer("Paiks");
 		Coffee.setUnitsInStock(1000);
 		Coffee.setCondition("hot item");
+        Coffee.setFilename("a1.png");
         
         Product NonCoffee = new Product("a2", "피치우롱스위티", 3700);
 		NonCoffee.setDescription("향긋하고 달콤한 복숭아와 풍부한 우롱의 맛이 어우러진 메뉴");
@@ -20,6 +26,7 @@ public class ProductRepository {
 		NonCoffee.setManufacturer("Paiks");
 		NonCoffee.setUnitsInStock(1000);
 		NonCoffee.setCondition("recommendation");
+        NonCoffee.setFilename("a2.png");
 
 		Product PaiksCino = new Product("a3", "딸기바나나빽스치노", 4000);
 		PaiksCino.setDescription("향긋하고 달콤한 복숭아와 풍부한 우롱의 맛이 어우러진 메뉴");
@@ -27,6 +34,7 @@ public class ProductRepository {
 		PaiksCino.setManufacturer("Paiks");
 		PaiksCino.setUnitsInStock(1000);
 		PaiksCino.setCondition("Best");
+        PaiksCino.setFilename("a4.png");
         
         Product Tea = new Product("a4", "아이스티",2500);
 		Tea.setDescription("시원하게 즐기는 복숭아 맛 아이스티");
@@ -34,6 +42,7 @@ public class ProductRepository {
 		Tea.setManufacturer("Paiks");
 		Tea.setUnitsInStock(1000);
 		Tea.setCondition("hot item");
+        Tea.setFilename("a4.png");
         
         Product Juice = new Product("a5", "딸기주스",3200);
 		Juice.setDescription("신선함을 그대로 담은 완전딸기!");
@@ -41,6 +50,7 @@ public class ProductRepository {
 		Juice.setManufacturer("Paiks");
 		Juice.setUnitsInStock(1000);
 		Juice.setCondition("Like");
+        Juice.setFilename("a5.png");
 		
         Product Dessert = new Product("a6", "못난이 생크림 카스텔라",3000);
 		Dessert.setDescription("부드러운 우유 생크림이 가득한 폭신하고 촉촉한 카스텔라");
@@ -48,6 +58,7 @@ public class ProductRepository {
 		Dessert.setManufacturer("Paiks");
 		Dessert.setUnitsInStock(1000);
 		Dessert.setCondition("soft");
+        Dessert.setFilename("a6.png");
 		// 위와 같이 상품 초기화 하고 아래에 상품을 추가
 
 		listOfProducts.add(Coffee);
@@ -74,5 +85,8 @@ public class ProductRepository {
             }
         }
         return productById;
+    }
+    public void addProduct(Product product){
+        listOfProducts.add(product);
     }
 }
