@@ -29,7 +29,7 @@
         %>
         <div class="col-md-4">
             <div class = "card bg-dark text white">
-                <img src="image/product/<%=product.getFilename()%>" class="card-img" alt="...">
+                <img src="../image/product/<%=product.getFilename()%>" class="card-img" alt="...">
                 <div class="card-img-pverlay">
                     <h5 class = "card-title">음료 샘플 </h5>
                     <p class = "card-text">출처:빽다방 </p>
@@ -69,6 +69,22 @@
     </div>
 
 <div class="list-group">
-    <a href="#" class="list-group-item list-group-item-action active" aria-current="true">PAIK’S COFFEE SNS</a>
-    <a href="#" class="list-group-item list-group-item-action">#빽다방#빽다방신메뉴#빽다방이벤트</a>
+    <!-- 기본 코드
+    <a href="#" class="list-group-item list-group-item-action active" aria-current="true">PAIK’S COFFEE SNS</a>-->
+    <a href="#" class="list-group-item list-group-item-action active" aria-current="true" style="background-color: white; color: black; text-align: center; font-size: 24px;  border: none;">
+        PAIK’S COFFEE SNS
+        <p style="font-size: 14px; color: #808080; text-align: center; margin-top: 3px; margin-bottom: 5px;">#빽다방 #빽다방신메뉴 #빽다방이벤트</p>
+    </a>
+    <hr style="width: 50px; height: 1.5px; background-color: #939393; border: 0; border-radius: 1.5px;">
+   <!-- <a href="#" class="list-group-item list-group-item-action">#빽다방 #빽다방신메뉴 #빽다방이벤트</a> 원래 코드-->
+    <div style="display: flex; gap: 20px; justify-content: center;">
+    <img src="../image/facebook-ico.png" class="img-fluid" alt="..." style="width: 35px; height: 35px;">
+    <img src="../image/insta-ico.png" class="img-fluid" alt="..." style="width: 35px; height: 35px;">
+</div>
+
+<div style="height: 50px;"></div>
+
+<hr style="width: 100%; height: 3px; background-color: #ffe600; border: 0;">
+
+
 </div>

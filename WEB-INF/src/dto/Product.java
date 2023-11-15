@@ -13,6 +13,7 @@ public class Product implements Serializable {
     private long unitsInStock;
     private String condition;
     private String filename;
+    private int quantity;
     
     public Product() {
         super();
@@ -90,6 +91,13 @@ public class Product implements Serializable {
     }
     public String getFilename(){
         return filename;
+    }
+    public int getQuantity(){
+        return quantity;
+    }
+    
+    public void setQuantity(int quantity){
+        this.quantity=quantity;
     }
 
 
