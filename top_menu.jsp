@@ -8,8 +8,8 @@
         <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
             <a class="dropdown-item" href="./menu/top_menu_coffee.jsp"> 커피</a>
             <a class="dropdown-item" href="./menu/top_menu_nonCoffee.jsp"> 음료</a>
-            <a class="dropdown-item" href="#"> 빽스치노</a>
-             <a class="dropdown-item" href="#"> 디저트/아이스크림</a>
+            <a class="dropdown-item" href="./menu/top_menu_paiksccino.jsp"> 빽스치노</a>
+             <a class="dropdown-item" href="./menu/top_menu_dessert.jsp"> 디저트/아이스크림</a>
             <div class="container">
         </div>
         </div>

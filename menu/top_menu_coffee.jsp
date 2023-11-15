@@ -108,6 +108,23 @@
         .coffee-container:hover .description {
             display: block;
         }
+         .custom-button {
+        background-color: #FFFFFF; /* 기본 배경 색상 (흰색) */
+        color: #666666; /* 기본 글씨 색상 (회색) */
+        border: none;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        cursor: pointer;
+        transition: background-color 0.3s, color 0.3s; /* 트랜지션 효과 추가 */
+    }
+
+    .custom-button:hover {
+        background-color: #FFD700; /* 마우스를 올렸을 때 배경 색상 (노란색) */
+        color: #000000; /* 마우스를 올렸을 때 글씨 색상 (검은색) */
+    }
     </style>
 </head>
 
@@ -122,6 +139,12 @@
                         <h1>커피</h1>
                         <hr class="coffee-line">
                         <p>뉴 크롭 원두를 사용하여 더욱더 신선한 커피 메뉴를 만나보세요.</p>
+                         <div class="row justify-content-center">
+                            <button type="button" class="custom-button" onclick="location.href='../menu/top_menu_coffee.jsp'">커피</button>
+                            <button type="button" class="custom-button" onclick="location.href='../menu/top_menu_nonCoffee.jsp'">음료</button>
+                            <button type="button" class="custom-button" onclick="location.href='../menu/top_menu_paiksccino.jsp'">빽스치노</button>
+                            <button type="button" class="custom-button" onclick="location.href='../menu/top_menu_dessert.jsp'">아이스크림/디저트</button>
+    </div>
                     </div>
                 </div>
             </div>
