@@ -5,7 +5,7 @@
     
 <jsp:useBean id="productDAO" class="dao.ProductRepository" scope="session" />
 
-<%! String greeting = "빽다방 음료 페이지입니다.";
+<%! String greeting = "추다방 추천 음료입니다.";
         String tagline = "하단 페이지: 확인";%>
 <div class="container">
     <div class="jumbotron">

@@ -144,6 +144,7 @@
                             <button type="button" class="custom-button" onclick="location.href='../menu/top_menu_nonCoffee.jsp'">음료</button>
                             <button type="button" class="custom-button" onclick="location.href='../menu/top_menu_paiksccino.jsp'">빽스치노</button>
                             <button type="button" class="custom-button" onclick="location.href='../menu/top_menu_dessert.jsp'">아이스크림/디저트</button>
+                            
     </div>
                     </div>
                 </div>
