@@ -11,7 +11,7 @@
     <div class="jumbotron">
         <div class="container">
             <h3 class="display-4">
-                <%=greeting%>
+                <%=greeting%> 
             </h3>
         </div>
     </div>
