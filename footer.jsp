@@ -4,7 +4,7 @@
 <%@ page import="java.util.TimeZone" %>
 <%@ page import="java.util.Date" %>
 
-
+ 
 <footer class="footer">
    <img src="../image/flogo.png" class="img-fluid" alt="..." style="width: 270px; height: 80px; overflow: hidden; display: block; margin: 0 auto;">
     <ul style="text-align: center; font-size: 13px; font-family: Arial, sans-serif;">
