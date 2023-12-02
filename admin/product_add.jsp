@@ -11,7 +11,7 @@
     <title>상품등록</title>  
 </head>
 
-    <body>
+    <body> 
 	<div class="jumbotron">
 		<div class="container">
 			<h1 class="display-3">상품 등록</h1>
