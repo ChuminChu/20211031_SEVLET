@@ -13,7 +13,7 @@
     </security-role>
     <security-constraint>
         <display-name>WebMarket Security_01</display-name>
-        <web-resource-collection>
+        <web-resource-collection> 
             <web-resource-name>WebMarket</web-resource-name>
             <description></description>
             <url-pattern>/admin/product_add.jsp</url-pattern>
