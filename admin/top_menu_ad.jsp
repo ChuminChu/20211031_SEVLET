@@ -1,7 +1,7 @@
 <%@ page contentType = "text/html; charset=utf-8" %>
 <nav class="navbar navbar-expand navbar-blue bg-black">
    <div><img src="../image\paik_logo.png" class="img-fluid" alt="main_image"></div>
-    <div class="dropdown">
+    <div class="dropdown"> 
         <button class="btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
             메뉴소개
         </button> 
