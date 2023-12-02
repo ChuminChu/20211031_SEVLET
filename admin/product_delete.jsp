@@ -13,7 +13,7 @@
 
     <title>상품 삭제</title>
 </head>
-
+ 
 <body>
     <jsp:include page="top_menu_ad.jsp" />
     <div class="jumbotron">
