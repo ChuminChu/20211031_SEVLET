@@ -4,7 +4,7 @@
 <head>
     <title>mysql 데이터베이스 접속 테스트</title>
 </head>
-<body>
+<body> 
 <%
 	Statement stm = null;
 	ResultSet rs = null;
