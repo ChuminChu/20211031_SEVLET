@@ -10,7 +10,7 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
         <title>배송정보</title>
         
-        <script>
+        <script> 
         // JavaScript로 현재 날짜를 얻는 함수
         function getCurrentDate() {
             var today = new Date();
