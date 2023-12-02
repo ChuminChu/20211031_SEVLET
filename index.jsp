@@ -15,7 +15,7 @@
 </head>
 
 <body> <%-- JSP 주석 처리 --%>
-    <%@ include file="top_banner.jsp" %>
+    <%@ include file="top_banner.jsp" %>  
     <%@ include file="top_menu.jsp" %>
     <%@ include file="body_main.jsp" %>
     <%@ include file="footer.jsp" %>
