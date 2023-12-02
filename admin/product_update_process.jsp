@@ -4,7 +4,7 @@
 <%@ page import="java.util.*"%>
 <%@ page import="java.sql.*"%>
 <%@ include file="../db/db_conn.jsp" %> 
-<%
+<% 
 	String filename = "";
 	String realFolder = request.getServletContext().getRealPath("image/product"); //웹 어플리케이션상의 절대 경로
 	String encType = "utf-8"; //인코딩 타입
