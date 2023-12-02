@@ -9,7 +9,7 @@
 
 
 <%
-	request.setCharacterEncoding("UTF-8");
+	request.setCharacterEncoding("UTF-8"); 
 
     String filename = "";
     String realFolder = request.getServletContext().getRealPath("image/product");
