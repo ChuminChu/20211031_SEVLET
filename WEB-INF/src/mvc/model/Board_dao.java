@@ -7,7 +7,7 @@ import java.util.ArrayList;
 
 import mvc.database.Db_connection;
 
-public class Board_dao {
+public class Board_dao { 
 
    private static Board_dao instance;
    
