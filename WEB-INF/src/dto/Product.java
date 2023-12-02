@@ -38,7 +38,7 @@ public class Product implements Serializable {
 
    public void setProductId(String productId) {
       this.productId = productId;
-   }
+   } 
 
    public Integer getUnitPrice() {
       return unitPrice;
