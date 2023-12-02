@@ -7,7 +7,7 @@
   
 </head>
 
-<body>
+<body> 
     <jsp:include page="../top_menu.jsp"/>
     <div class="jumbotron">
         <div class="container">
