@@ -10,8 +10,8 @@ public class Board_dto {
 	private int hit;
 	private String ip;
 
-	public Board_dto() {
-		super();		
+	public Board_dto() { 
+		super();		 
 	}
 
 	public int getNum() {
