@@ -4,7 +4,7 @@
 <jsp:useBean id="productDAO" class="dao.ProductRepository" scope="session" />
 <%@ page import="java.sql.*"%>
 <%@ include file="db/db_conn.jsp"%>
-
+ 
 <%! String greeting = "추다방 추천 음료입니다.";
         String tagline = "하단 페이지: 확인";%>
 <div class="container">
