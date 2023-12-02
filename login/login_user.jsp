@@ -11,7 +11,7 @@
     <div class="jumbotron">
         <div class="container">
             <h1 class="display-3">일반인 모드 접근 - 로그인이 필요합니다.</h1>
-        </div>
+        </div> 
     </div>
     <div class="container" align="center">
         <div class="col-md-4 col-md-offset-4">
