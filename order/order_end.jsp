@@ -16,7 +16,7 @@
 
     <title>주문 완료</title>
 </head>
-
+ 
 <body>
     <%
       String shipping_cartId = "";
