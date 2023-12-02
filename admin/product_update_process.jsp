@@ -3,7 +3,7 @@
 <%@ page import="com.oreilly.servlet.multipart.*"%>
 <%@ page import="java.util.*"%>
 <%@ page import="java.sql.*"%>
-<%@ include file="../db/db_conn.jsp" %>
+<%@ include file="../db/db_conn.jsp" %> 
 <%
 	String filename = "";
 	String realFolder = request.getServletContext().getRealPath("image/product"); //웹 어플리케이션상의 절대 경로
