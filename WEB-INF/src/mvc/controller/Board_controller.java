@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletResponse;
 import mvc.model.Board_dao;
 import mvc.model.Board_dto;
 
-public class Board_controller extends HttpServlet {
+public class Board_controller extends HttpServlet { 
    private static final long serialVersionUID = 1L;
    static final int LISTCOUNT = 5; 
 
@@ -157,7 +157,7 @@ requestLoginName(request);
       
        java.text.SimpleDateFormat formatter = new java.text.SimpleDateFormat("yyyy/MM/dd(HH:mm:ss)");
        String regist_day = formatter.format(new java.util.Date()); 
-       
+        
        board.setHit(0);
        board.setRegist_day(regist_day);
        board.setIp(request.getRemoteAddr());         

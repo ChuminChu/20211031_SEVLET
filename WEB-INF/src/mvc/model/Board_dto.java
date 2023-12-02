@@ -19,7 +19,7 @@ public class Board_dto {
 	}
 
 	public void setNum(int num) {
-		this.num = num;
+		this.num = num; 
 	}
 
 	public String getId() {
@@ -32,7 +32,7 @@ public class Board_dto {
 	public String getName() {
 		return name;
 	}
-
+ 
 	public void setName(String name) {
 		this.name = name;
 	}

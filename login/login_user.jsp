@@ -19,14 +19,14 @@
                 please sing in
             </h3>
             <%
-            String error = request.getParameter("errorcode");
+            String error = request.getParameter("error");
             if (error != null) {
                out.println("<div class='alert alert-danger'>");
                out.println("아이디와 비밀번호를 확인해 주세요");
                out.println("</div>");
             }
          %>
-            <form class="processLoginMember.jsp" method="post" class="form-signin">
+            <form action="../member_join_process.jsp" method="post" class="form-signin">
                 <div class="form-group">
                     <label for="inputUserName" class="sr-only">User Name</label>
                     <input type="text" class="form-control" placeholder="ID" name='id' required autofocus>

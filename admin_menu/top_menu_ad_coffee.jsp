@@ -129,7 +129,7 @@
 </head>
 
 <body>
-  <jsp:include page="../admin/top_menu_ad.jsp" />	
+<jsp:include page="top_menu_.jsp" />	
     
     <!-- 배너 부분 -->     
     <div class="jb-wrap">

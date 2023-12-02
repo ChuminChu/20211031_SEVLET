@@ -16,7 +16,7 @@ public class Board_dao {
    }
 
    public static Board_dao getInstance() {
-      if (instance == null)
+      if (instance == null) 
          instance = new Board_dao();
       return instance;
    }   
