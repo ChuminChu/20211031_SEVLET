@@ -13,7 +13,7 @@
             대표이사 백종원
         </p>
         <p style="margin-top: 5px; margin-bottom: 5px;"> 주소: 서울시 강남구 봉은사로 1길 39 유성빌딩 5~6층<span class="border-right pr-1 mx-3" style="border-color: black !important;"></span> 
-            팩스: 02-511-3864
+            팩스: 02-511-3864 
         </p>
         <p style="margin-top: 5px; margin-bottom: 5px;"> 본사 대표전화: 02-549-3864<span class="border-right pr-1 mx-3" style="border-color: black !important;"></span> 
             가맹상담전화: 02-3447-0410<span class="border-right pr-1 mx-3" style="border-color: black !important;"></span>
