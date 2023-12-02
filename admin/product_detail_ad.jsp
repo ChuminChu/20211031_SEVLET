@@ -19,7 +19,7 @@
         <%@ include file = "top_menu_ad.jsp"%>
         <div class = "jumbotron">
             <div class= "container">
-                <h1 class= "display-3">
+                <h1 class= "display-3"> ㄴ
                     상품 상세 정보
                 </h1>
             </div>
