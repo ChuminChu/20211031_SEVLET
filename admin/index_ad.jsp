@@ -2,7 +2,7 @@
 <%@ page import="example.*" %>
 <%@ page import="java.util.Date" %>
 <%
-    HelloWorld h = new HelloWorld();
+    HelloWorld h = new HelloWorld(); 
 %>
 <html>
 
