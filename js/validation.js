@@ -14,7 +14,7 @@ function CheckAddProduct() {
 		alert("[상품명]\n최소 4자에서 최대 50자까지 입력하세요");
 		name.select();
 		name.focus();
-		return false;
+		return false; 
 	}
 	// 상품 가격 체크
 	if (unitPrice.value.length == 0 || isNaN(unitPrice.value)) {
