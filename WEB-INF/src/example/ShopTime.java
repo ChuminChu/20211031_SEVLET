@@ -16,4 +16,4 @@ hour = hour - 12;
 String CT = hour + ":" + minute + ":" + second + " " + am_pm; // 출력 문자열 조합
 return CT; // 문자열 리턴
 }
-} 
+}  
