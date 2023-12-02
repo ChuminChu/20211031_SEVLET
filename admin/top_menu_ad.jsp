@@ -4,7 +4,7 @@
     <div class="dropdown">
         <button class="btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
             메뉴소개
-        </button>
+        </button> 
         <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
              <a class="dropdown-item" href="../admin_menu/top_menu_ad_coffee.jsp"> 커피</a>
             <a class="dropdown-item" href="../admin_menu/top_menu_ad_nonCoffee.jsp"> 음료</a>
