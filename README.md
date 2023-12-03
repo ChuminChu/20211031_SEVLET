@@ -112,7 +112,7 @@
 
 ## 23년 월일 쇼핑몰 상품 관리 페이지 추가
 [product_cart.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/cart/product_cart.jsp)
-![이미지](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/16701324-320c-4d6f-9188-93095a44533e)
+![이미지](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/db0b7ed5-5808-4847-9e30-e563a6bac9be)
 
 ## 23년 월일 쇼핑몰 상품 관리 페이지 추가
 [product_delete.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/admin/product_delete.jsp)
@@ -127,7 +127,6 @@
 ![이미지](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/ac5ed18f-19ed-4fbb-b092-5ca15eaab9ec)
 ![이미지](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/6fb4612d-df7b-4bb1-886e-c7afce958e5f)
 ![이미지](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/eec97e98-ce20-4ae2-b905-a3c33226ef5d)
-![이미지](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/9e2e6f89-e12d-4f4d-a876-277b262deb93)
 
 ## 23년 월일 쇼핑몰 게시판 페이지 추가
 [board_list.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/board/board_list.jsp)
