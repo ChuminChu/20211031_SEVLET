@@ -89,14 +89,15 @@
 ## 23년 월일 쇼핑몰 주문 처리 페이지 추가
 [order_info.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/order/order_info.jsp)
 [order_info_process.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/order/order_info_process.jsp)
-![이미지](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/783265ab-d22f-426f-a5fc-055be97fcf35)
-![이미지](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/5989bf14-53f5-451e-b36f-89ee2e735eef)
 [order_confirm.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/order/order_confirm.jsp)
-![이미지](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/16701324-320c-4d6f-9188-93095a44533e)
+![이미지](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/b33b9fb3-f3ee-4fc2-832d-c9f1134b91c2)
+![이미지](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/19091ba7-8507-41bd-8d3a-e81d6df273c5)
+![이미지](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/e6e1007e-dfa1-408a-a1bf-22cf3307dc3d)
 [order_end.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/order/order_end.jsp)
-![이미지](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/16701324-320c-4d6f-9188-93095a44533e)
+![이미지](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/2bccee3f-e120-46ad-b218-54f5bc2e3d35)
 [order_cancelled.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/order/order_cancelled.jsp)
-![이미지](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/16701324-320c-4d6f-9188-93095a44533e)
+
+
 
 ### 연습 문제 - 배송일 날짜 선택 후 입력
 [order_info.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/108371d7-6b60-4599-8db3-744dced9b290)
