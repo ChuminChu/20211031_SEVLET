@@ -4,7 +4,7 @@
 
 ### 23년 9월6일 쇼핑몰 메인 페이지 확인 완료
 [index.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/index.jsp)
-[이미지](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/c6783405-e220-4407-a0e5-35105485bdca)
+![이미지](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/c6783405-e220-4407-a0e5-35105485bdca)
 
 
 ## 23년 9월13일 forward 액션 태그 확인 완료
