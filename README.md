@@ -73,7 +73,7 @@
 ![이미지](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/6e08017d-bc9c-4ea4-ba53-c935b2efc681)
 [product_cart_remove.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/cart/product_cart_remove.jsp)
 [product_cart_remove_all.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/cart/product_cart_remove_all.jsp)
-![이미지](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/3666d4b0-bdaf-4a2c-b5dc-ddfafe422a84)
+
 
 ### 연습 문제 - 장바구니 페이지 상단 로그 이미지
 [produc_cart.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/cart/product_cart.jsp)
@@ -96,17 +96,18 @@
 [order_end.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/order/order_end.jsp)
 ![이미지](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/2bccee3f-e120-46ad-b218-54f5bc2e3d35)
 [order_cancelled.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/order/order_cancelled.jsp)
-
+![이미지](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/3666d4b0-bdaf-4a2c-b5dc-ddfafe422a84)
 
 
 ### 연습 문제 - 배송일 날짜 선택 후 입력
-[order_info.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/108371d7-6b60-4599-8db3-744dced9b290)
+[order_info.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/order/order_info.jsp)
+![이미지](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/a320dae0-73f2-4220-8f07-13c4d0f740cc)
 ### 연습 문제 - 국가명 select박스로 수정
-[order_info.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/aa3d8427-635b-45cc-84bd-97a82703b648)
+[order_info.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/order/order_info.jsp)
+![이미지](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/db4e8bd4-a468-4b58-a88f-c4928c661485)
 ### 연습 문제 - 우편번호,주소 검색
-[order_info.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/993703d9-0799-4725-bf84-e705db8a40f3)
-![이미지](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/e5dd1608-c2f7-4989-9b77-0487189ab629)
-![이미지](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/16701324-320c-4d6f-9188-93095a44533e)
+[order_info.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/order/order_info.jsp)
+![이미지](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/1b492c6a-e311-4ce5-8bf5-31c029544836)
 
 
 ## 23년 월일 쇼핑몰 상품 관리 페이지 추가
