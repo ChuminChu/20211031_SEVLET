@@ -58,10 +58,10 @@
 ## 23년 월일 쇼핑몰 로그인 기능 추가
 [validation.js: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/js/validation.js)
 [login.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/login/login.jsp)
-![이미지](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/07b50c86-3a8a-4a51-9fed-d8a631dc03ba)
 ![이미지](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/c0d0a0dd-06d2-47d2-9a1f-bec1525a7819)
+![이미지](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/a776a447-7c48-4d9c-b8e2-2c932d3a5e9c)
 [login_failed.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/login/login_failed.jsp)
-![이미지](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/c0d0a0dd-06d2-47d2-9a1f-bec1525a7819)
+![이미지](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/44565062-4963-4d48-b867-ce45b1ba77dd)
 [logout.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/login/logout.jsp)
 ![이미지](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/d5d24f44-02c5-4249-864f-35f25a2c5194)
 ![이미지](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/57ee0a59-b2d0-4195-a615-383eb311daa7)
