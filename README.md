@@ -10,9 +10,9 @@
 ## 23년 9월13일 forward 액션 태그 확인 완료
 [index.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/index.jsp)
 [top_banner.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/top_banner.jsp)
-![이미지](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/72a693af-e69f-470f-a01d-ce522de7c6a9)
+![이미지](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/1d856c5d-da79-4bd7-b5e4-f55edac1f88b)
 [top_menu.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/top_menu.jsp)
-![이미지](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/8a52b27d-3bc2-4f59-bc6a-e5aa783f2a65)
+![이미지](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/72a693af-e69f-470f-a01d-ce522de7c6a9)
 [body_main.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/body_main.jsp)
 ![이미지](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/a769ddcc-75b1-482d-a5aa-4eb03d82807a)
 ![이미지](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/b3b5e820-7167-47ba-be4e-e378e5f09bdf)
