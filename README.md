@@ -4,6 +4,8 @@
 
 ### 23년 9월6일 쇼핑몰 메인 페이지 확인 완료
 [index.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/index.jsp)
+[이미지](https://github.com/ChuminChu/20211031_SEVLET/assets/139088490/c6783405-e220-4407-a0e5-35105485bdca)
+
 
 ## 23년 9월13일 forward 액션 태그 확인 완료
 [index.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/index.jsp)
@@ -14,8 +16,8 @@
 [popup1.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/popup/popup1.jsp)
 [popup2.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/popup/popup2.jsp)
 
-### 연습문제 - 날짜 분리 확인 완료
-[ShowTime.java: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/WEB-INF/src/example/ShopTime.java)
+### 연습문제 - 날짜 분리 확인 완료ro
+[ShopTime.java: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/WEB-INF/src/example/ShopTime.java)
 
 ## 23년 9월27일 쇼핑몰 상품 목록 페이지(이미지 포함) 추가 완료
 [index.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/WEB-INF/src/dao/ProductRepository.java)
@@ -41,7 +43,7 @@
 [login_failed.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/login/login_failed.jsp)
 [logout.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/login/logout.jsp)
 
-## 23년 월일 쇼핑몰 로그인 기능 추가
+## 23년 월일 쇼핑몰 상품 추가 기능 추가
 [product_cart_add.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/cart/product_cart_add.jsp)
 [product_cart_remove.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/cart/product_cart_remove.jsp)
 [product_cart_remove_adll.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/cart/product_cart_remove_all.jsp)
@@ -69,7 +71,7 @@
 [order_info.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/order/order_info.jsp)
 
 ## 23년 월일 쇼핑몰 상품 관리 페이지 추가
-[produc_cart.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/cart/product_cart.jsp)
+[product_cart.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/cart/product_cart.jsp)
 
 ## 23년 월일 쇼핑몰 상품 관리 페이지 추가
 [product_delete.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/admin/product_delete.jsp)
@@ -90,3 +92,4 @@
 
 ### 추가 기능: 메뉴 추가
 [top_menu_ad_coffee.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/admin_menu/top_menu_ad_coffee.jsp)
+[top_menu_coffee.jsp: 실행/수정 완료](https://github.com/ChuminChu/20211031_SEVLET/blob/main/admin_menu/top_menu_ad_coffee.jsp)
